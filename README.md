@@ -1,3 +1,10 @@
+# TO DO:
+- Consolidate subnets (one for services, one for outbound integration)
+- Utilize existing VNET and Route Table / Forced-tunneling
+- Accept existing azure private dns resolver (that is already configured for cArmy, ideally in the same RG as VNET) 
+- Delay app deployment until DNS resolution
+- 
+
 # Information Assistant (IA) copilot template
 
 > [!IMPORTANT]  
